@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <manifest>
 
-  <include name="base-l-aosp.xml"/>
+  <include name="base-q.xml"/>
 
   <default remote="caf" revision="refs/tags/android-5.1.0_r1" sync-j="4"/>
 
