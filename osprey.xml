@@ -25,4 +25,5 @@
 	<remote name="mk"
 	    fetch="https://github.com/MishterKirby"
 	    revision="lineage-18.0" />
+	  <remote name="caf" fetch="git://codeaurora.org/" />
 </manifest>
